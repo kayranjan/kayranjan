@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kshitij Ranjan.
-- 👀 I’m interested in Software and Full Stack Web-Development.
-- 🌱 I’m currently learning Web- Development.
-- 💞️ I’m looking to collaborate on Web-Developmet projects.
+- 🏢 Ex Full-Stack Developer Intern @ Reliance JIO.
+- 👀 Interested in Software and Full Stack Web-Development.
+- 🌱 Currently working on MERN stack.
+- 💞️ I’m looking to collaborate on MERN and other Web-Developmet projects.
 - 📫 Reach me at kshitijranjan10@gmail.com
 - 👨‍🎓 Linkedin profile https://www.linkedin.com/in/kshitij-ranjan-8984b21a0.
 
